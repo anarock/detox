@@ -222,3 +222,7 @@ yarn.lock
 detox/ios_src
 package-lock.json
 /detox/src/devices/detox/notifications/notification.json
+# HQ context — generated indices and per-developer overrides
+.hq/
+AGENTS.local.md
+CLAUDE.local.md
